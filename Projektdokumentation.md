@@ -45,13 +45,13 @@ Wir erstellen einen Hypothekenrechner der berechnet ob man sich die gewünschte 
 | 1  |24.10.2022       |  Benas         |   Erstellung der Kommunikationsmethoden          |  45min          |
 | 2  |    24.10.2022   |  Noah,John,Ensar,Benas       |   Informationen zum Thema finden           |  90min           |
 | 3 | 24.10.2022      |  John,Ensar         |  Planen           |  90min|
-| 4  |   24.10.2022    |  Noah,Benas       |   Prototyp des programms programmieren          |  90min          |
-| 5  | 31.10.2022      | Benas          | design            |      90min         |
+| 4  |   24.10.2022    |  Noah,Benas       |   Prototyp des programms programmieren          |  225MIN          |
+| 5  | 31.10.2022      | Benas          |    Design         |      90min         |
 | 6  | 31.10.2022       |  Noah         |  Settingsbutton programmieren          |  45min             |
 | 7  |31.10.2022        |  Ensar,John          |  Informationen über Hypothekenrechner finden          |  90min|
 | 8 | 31.10.2022       |  John,Ensar |   Github erstellen           |  90min|
-
-
+| 9 | 7.7.2022| John,Ensar, Benas | Prototyp beenden|225min|
+|10| 7.7 |Noah | Zinsen | 225min|
 
 
 Total: 
