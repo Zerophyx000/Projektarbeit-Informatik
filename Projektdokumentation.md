@@ -42,14 +42,14 @@ Wir erstellen einen Hypothekenrechner der berechnet ob man sich die gewünschte 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1  |24.10.2022       |  Benas         |   Erstellung der Kommunikationsmethoden          |  45             |
-| 2  |    24.10.2022   |  Noah,John,Ensar,Benas       |   Informationen zum Thema finden           |  90             |
-| 3 | 24.10.2022      |  John,Ensar         |  Planen           |  90             |
-| 4  |   24.10.2022    |  Noah,Benas       |   Prototyp des programms programmieren          |  90             |
+| 1  |24.10.2022       |  Benas         |   Erstellung der Kommunikationsmethoden          |  45min          |
+| 2  |    24.10.2022   |  Noah,John,Ensar,Benas       |   Informationen zum Thema finden           |  90min           |
+| 3 | 24.10.2022      |  John,Ensar         |  Planen           |  90min|
+| 4  |   24.10.2022    |  Noah,Benas       |   Prototyp des programms programmieren          |  90min          |
 | 5  | 31.10.2022      | Benas          | design            |      90min         |
-| 6  | 31.10.2022       |  Noah         |  Settingsbutton programmieren          |  45             |
-| 7  |31.10.2022        |  Ensar,John          |  Informationen über Hypothekenrechner finden          |  90|
-| 8 | 31.10.2022       |  John,Ensar |   Github erstellen           |  90|
+| 6  | 31.10.2022       |  Noah         |  Settingsbutton programmieren          |  45min             |
+| 7  |31.10.2022        |  Ensar,John          |  Informationen über Hypothekenrechner finden          |  90min|
+| 8 | 31.10.2022       |  John,Ensar |   Github erstellen           |  90min|
 
 
 
